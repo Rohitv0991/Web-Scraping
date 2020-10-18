@@ -46,6 +46,3 @@ class BlueTomato(scrapy.Spider):
 
 # executing the following command will run this spider named 'blueTomato' and store the data in 'snowboardData.csv'
 # scrapy crawl blueTomato -o snowboardData.csv
-
-# Google drive link for downloaded images:
-# https://drive.google.com/drive/u/0/folders/1d46wXqsGq1Ahcf4ldruyt53DIMX5vk2m
